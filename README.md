@@ -1,3 +1,1 @@
-
-# Metin1
-SALAM
+salam
